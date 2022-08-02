@@ -6,7 +6,6 @@ class Calculator:
     
 calc = Calculator()
 
-
 # Makes sense to hiwalay the test cases in real life:
 def test_answer_add():
     assert calc.add(1,1) == 2
